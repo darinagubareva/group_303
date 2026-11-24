@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f6fb;
+    padding: 30px;
+}
+
+#student-gubareva {
+    color: rgb(163, 75, 89);
+    background-color: #f3e5f5;
+    border-left: 6px solid #ce7fdc;
+    padding: 12px 18px;
+    border-radius: 6px;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
